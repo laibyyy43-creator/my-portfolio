@@ -39,7 +39,7 @@ const projects = [
 const experience = [
   {
     role: "Visa Consultant",
-    company: "Rapid Link Immigration Services",
+    company: "Rapid Line Immigration Services",
     date: "2025–2026",
     details:
       "Guided clients through study, work, and visit visa processes; organized documents, prepared application forms, and managed client follow-ups.",
@@ -58,7 +58,7 @@ function App() {
     <div className="portfolio">
       <header className="navbar">
         <a className="logo" href="#home">
-          LA<span>.</span>
+          Laibaaly<span>.</span>
         </a>
 
         <nav>
@@ -87,7 +87,7 @@ function App() {
             </h1>
 
             <p className="hero-description">
-              Hi, I'm Laiba — an aspiring web developer who loves creating
+              Hi, I'm Laibaaly — an aspiring web developer who loves creating
               clean, user-friendly digital experiences.
             </p>
 
@@ -319,7 +319,7 @@ function App() {
       {/* FOOTER */}
       <footer className="footer">
         <a className="logo" href="#home">
-          LA<span>.</span>
+          Laibaaly<span>.</span>
         </a>
 
         <p>Designed & built with care by Laiba.</p>
